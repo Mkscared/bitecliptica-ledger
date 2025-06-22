@@ -1,0 +1,1 @@
+// JS functionality for Firebase, contact form, portfolio, news, price

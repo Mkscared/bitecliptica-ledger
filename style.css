@@ -1,0 +1,23 @@
+
+body {
+  font-family: Arial, sans-serif;
+  transition: background 0.4s, color 0.4s;
+}
+body.dark {
+  background: #111;
+  color: white;
+}
+body.light {
+  background: white;
+  color: black;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.logo {
+  height: 40px;
+}
